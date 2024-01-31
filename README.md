@@ -12,10 +12,8 @@ This Java program implements a simple number guessing game. The game generates a
 6. The program displays the number of attempts made to guess the correct number.
 
 ## Code Overview
-- User Input
-  Utilizes the Scanner class to receive user input for guesses.
-- Random Number Generation
-  Utilizes the random() method from the Math class to generate a random number.
+- User Input: Utilizes the Scanner class to receive user input for guesses.
+- Random Number Generation: Utilizes the random() method from the Math class to generate a random number.
 - Feedback System
   Provides clear feedback after each guess, guiding the player towards the correct answer.
 - Loop Structure
