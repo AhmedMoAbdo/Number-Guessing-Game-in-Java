@@ -14,9 +14,6 @@ This Java program implements a simple number guessing game. The game generates a
 ## Code Overview
 - User Input: Utilizes the Scanner class to receive user input for guesses.
 - Random Number Generation: Utilizes the random() method from the Math class to generate a random number.
-- Feedback System
-  Provides clear feedback after each guess, guiding the player towards the correct answer.
-- Loop Structure
-  Implements a loop structure to continuously prompt the user for guesses until the correct number is guessed.
-- Attempt Tracking
-  Keeps track of the number of attempts made by the player.
+- Feedback System: Provides clear feedback after each guess, guiding the player towards the correct answer.
+- Loop Structure: Implements a loop structure to continuously prompt the user for guesses until the correct number is guessed.
+- Attempt Tracking: Keeps track of the number of attempts made by the player.
